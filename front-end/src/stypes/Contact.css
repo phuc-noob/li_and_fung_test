@@ -1,0 +1,22 @@
+.center {
+    margin-top: 5%;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+.tittle{
+    width: 100%;
+    text-align: center;
+    max-height: 5px;
+}
+.searchBox {
+    margin-left: 20px;
+    display: flex;
+}
+.searchBox input{
+    max-height: 30px;
+}
+.card{
+    text-align: left;
+    padding-left: 200px;
+}
